@@ -1,4 +1,4 @@
-# 3Di Local Setup Guide (Windows + VS Code)
+# Setup to simulate 3Di locally (Windows + VS Code)
 
 This guide walks through:
 - Installing Miniconda
