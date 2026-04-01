@@ -27,7 +27,7 @@ Finish installation.
 After installation:
 - Close VS Code
 - Reopen VS Code
-- Open a new terminal
+- Open a new terminal (Ctrl + `)
 
 ---
 
