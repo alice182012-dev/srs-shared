@@ -11,7 +11,7 @@ This guide walks through:
 
 ## 1. Install Miniconda
 
-Download Miniconda from the official website and run the installer.
+Download Miniconda from the [official website]([url](https://www.anaconda.com/docs/getting-started/miniconda/main)) and run the installer.
 
 During installation:
 - Select "Just Me" (recommended)
